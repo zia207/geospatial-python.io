@@ -20,7 +20,7 @@ navbar:
       href: lesson_03_pojection_coordinate_reference_system.html
     - text: Geoprocessing Vector Data
       href: lesson_04_geoprocessing-vector-data.html
-    - text: Working with Spatial Polygoan Data
+    - text: Working with Spatial Polygon Data
       href: lesson_05_working-with-polygon-data.html
     - text: Working with Raster Data
       href: lesson_06_working-with-raster-data.html
