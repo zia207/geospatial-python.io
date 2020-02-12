@@ -1,0 +1,571 @@
+SiteID,FIPS,STATE_ID,STATE,COUNTY
+1,8001,8,Colorado,Adams County
+2,8003,8,Colorado,Alamosa County
+3,8005,8,Colorado,Arapahoe County
+4,8005,8,Colorado,Arapahoe County
+5,8005,8,Colorado,Arapahoe County
+6,8007,8,Colorado,Archuleta County
+7,8007,8,Colorado,Archuleta County
+8,8009,8,Colorado,Baca County
+9,8009,8,Colorado,Baca County
+10,8009,8,Colorado,Baca County
+11,8009,8,Colorado,Baca County
+12,8009,8,Colorado,Baca County
+13,8009,8,Colorado,Baca County
+14,8009,8,Colorado,Baca County
+15,8013,8,Colorado,Boulder County
+16,8015,8,Colorado,Chaffee County
+17,8017,8,Colorado,Cheyenne County
+18,8017,8,Colorado,Cheyenne County
+19,8017,8,Colorado,Cheyenne County
+20,8017,8,Colorado,Cheyenne County
+21,8021,8,Colorado,Conejos County
+22,8023,8,Colorado,Costilla County
+23,8025,8,Colorado,Crowley County
+24,8027,8,Colorado,Custer County
+25,8033,8,Colorado,Dolores County
+26,8033,8,Colorado,Dolores County
+27,8033,8,Colorado,Dolores County
+28,8033,8,Colorado,Dolores County
+29,8033,8,Colorado,Dolores County
+30,8035,8,Colorado,Douglas County
+31,8035,8,Colorado,Douglas County
+32,8037,8,Colorado,Eagle County
+33,8039,8,Colorado,Elbert County
+34,8039,8,Colorado,Elbert County
+35,8039,8,Colorado,Elbert County
+36,8041,8,Colorado,El Paso County
+37,8041,8,Colorado,El Paso County
+38,8041,8,Colorado,El Paso County
+39,8041,8,Colorado,El Paso County
+40,8041,8,Colorado,El Paso County
+41,8041,8,Colorado,El Paso County
+42,8041,8,Colorado,El Paso County
+43,8041,8,Colorado,El Paso County
+44,8041,8,Colorado,El Paso County
+45,8041,8,Colorado,El Paso County
+46,8045,8,Colorado,Garfield County
+47,8045,8,Colorado,Garfield County
+48,8045,8,Colorado,Garfield County
+49,8049,8,Colorado,Grand County
+50,8049,8,Colorado,Grand County
+51,8049,8,Colorado,Grand County
+52,8049,8,Colorado,Grand County
+53,8049,8,Colorado,Grand County
+54,8051,8,Colorado,Gunnison County
+55,8051,8,Colorado,Gunnison County
+56,8051,8,Colorado,Gunnison County
+57,8051,8,Colorado,Gunnison County
+58,8055,8,Colorado,Huerfano County
+59,8057,8,Colorado,Jackson County
+60,8057,8,Colorado,Jackson County
+61,8057,8,Colorado,Jackson County
+62,8057,8,Colorado,Jackson County
+63,8057,8,Colorado,Jackson County
+64,8061,8,Colorado,Kiowa County
+65,8061,8,Colorado,Kiowa County
+66,8061,8,Colorado,Kiowa County
+67,8061,8,Colorado,Kiowa County
+68,8061,8,Colorado,Kiowa County
+69,8061,8,Colorado,Kiowa County
+70,8063,8,Colorado,Kit Carson County
+71,8063,8,Colorado,Kit Carson County
+72,8063,8,Colorado,Kit Carson County
+73,8063,8,Colorado,Kit Carson County
+74,8065,8,Colorado,Lake County
+75,8065,8,Colorado,Lake County
+76,8067,8,Colorado,La Plata County
+77,8069,8,Colorado,Larimer County
+78,8069,8,Colorado,Larimer County
+79,8069,8,Colorado,Larimer County
+80,8069,8,Colorado,Larimer County
+81,8071,8,Colorado,Las Animas County
+82,8071,8,Colorado,Las Animas County
+83,8073,8,Colorado,Lincoln County
+84,8075,8,Colorado,Logan County
+85,8075,8,Colorado,Logan County
+86,8075,8,Colorado,Logan County
+87,8075,8,Colorado,Logan County
+88,8075,8,Colorado,Logan County
+89,8075,8,Colorado,Logan County
+90,8077,8,Colorado,Mesa County
+91,8077,8,Colorado,Mesa County
+92,8077,8,Colorado,Mesa County
+93,8077,8,Colorado,Mesa County
+94,8077,8,Colorado,Mesa County
+95,8077,8,Colorado,Mesa County
+96,8079,8,Colorado,Mineral County
+97,8081,8,Colorado,Moffat County
+98,8081,8,Colorado,Moffat County
+99,8081,8,Colorado,Moffat County
+100,8081,8,Colorado,Moffat County
+101,8083,8,Colorado,Montezuma County
+102,8083,8,Colorado,Montezuma County
+103,8083,8,Colorado,Montezuma County
+104,8083,8,Colorado,Montezuma County
+105,8083,8,Colorado,Montezuma County
+106,8085,8,Colorado,Montrose County
+107,8085,8,Colorado,Montrose County
+108,8087,8,Colorado,Morgan County
+109,8087,8,Colorado,Morgan County
+110,8087,8,Colorado,Morgan County
+111,8089,8,Colorado,Otero County
+112,8091,8,Colorado,Ouray County
+113,8091,8,Colorado,Ouray County
+114,8093,8,Colorado,Park County
+115,8093,8,Colorado,Park County
+116,8093,8,Colorado,Park County
+117,8093,8,Colorado,Park County
+118,8095,8,Colorado,Phillips County
+119,8095,8,Colorado,Phillips County
+120,8095,8,Colorado,Phillips County
+121,8099,8,Colorado,Prowers County
+122,8103,8,Colorado,Rio Blanco County
+123,8103,8,Colorado,Rio Blanco County
+124,8103,8,Colorado,Rio Blanco County
+125,8103,8,Colorado,Rio Blanco County
+126,8103,8,Colorado,Rio Blanco County
+127,8105,8,Colorado,Rio Grande County
+128,8105,8,Colorado,Rio Grande County
+129,8105,8,Colorado,Rio Grande County
+130,8105,8,Colorado,Rio Grande County
+131,8107,8,Colorado,Routt County
+132,8107,8,Colorado,Routt County
+133,8107,8,Colorado,Routt County
+134,8109,8,Colorado,Saguache County
+135,8109,8,Colorado,Saguache County
+136,8109,8,Colorado,Saguache County
+137,8109,8,Colorado,Saguache County
+138,8109,8,Colorado,Saguache County
+139,8109,8,Colorado,Saguache County
+140,8109,8,Colorado,Saguache County
+141,8109,8,Colorado,Saguache County
+142,8109,8,Colorado,Saguache County
+143,8111,8,Colorado,San Juan County
+144,8113,8,Colorado,San Miguel County
+145,8113,8,Colorado,San Miguel County
+146,8117,8,Colorado,Summit County
+147,8121,8,Colorado,Washington County
+148,8121,8,Colorado,Washington County
+149,8123,8,Colorado,Weld County
+150,8123,8,Colorado,Weld County
+151,8123,8,Colorado,Weld County
+152,8123,8,Colorado,Weld County
+153,8123,8,Colorado,Weld County
+154,8123,8,Colorado,Weld County
+155,8125,8,Colorado,Yuma County
+156,8125,8,Colorado,Yuma County
+157,8125,8,Colorado,Yuma County
+158,8125,8,Colorado,Yuma County
+159,8125,8,Colorado,Yuma County
+160,20001,20,Kansas,Allen County
+161,20001,20,Kansas,Allen County
+162,20001,20,Kansas,Allen County
+163,20005,20,Kansas,Atchison County
+164,20007,20,Kansas,Barber County
+165,20007,20,Kansas,Barber County
+166,20009,20,Kansas,Barton County
+167,20009,20,Kansas,Barton County
+168,20009,20,Kansas,Barton County
+169,20009,20,Kansas,Barton County
+170,20013,20,Kansas,Brown County
+171,20013,20,Kansas,Brown County
+172,20013,20,Kansas,Brown County
+173,20013,20,Kansas,Brown County
+174,20013,20,Kansas,Brown County
+175,20015,20,Kansas,Butler County
+176,20015,20,Kansas,Butler County
+177,20015,20,Kansas,Butler County
+178,20017,20,Kansas,Chase County
+179,20017,20,Kansas,Chase County
+180,20017,20,Kansas,Chase County
+181,20017,20,Kansas,Chase County
+182,20019,20,Kansas,Chautauqua County
+183,20023,20,Kansas,Cheyenne County
+184,20023,20,Kansas,Cheyenne County
+185,20023,20,Kansas,Cheyenne County
+186,20025,20,Kansas,Clark County
+187,20025,20,Kansas,Clark County
+188,20025,20,Kansas,Clark County
+189,20029,20,Kansas,Cloud County
+190,20031,20,Kansas,Coffey County
+191,20039,20,Kansas,Decatur County
+192,20039,20,Kansas,Decatur County
+193,20041,20,Kansas,Dickinson County
+194,20043,20,Kansas,Doniphan County
+195,20053,20,Kansas,Ellsworth County
+196,20053,20,Kansas,Ellsworth County
+197,20055,20,Kansas,Finney County
+198,20057,20,Kansas,Ford County
+199,20057,20,Kansas,Ford County
+200,20063,20,Kansas,Gove County
+201,20065,20,Kansas,Graham County
+202,20065,20,Kansas,Graham County
+203,20065,20,Kansas,Graham County
+204,20065,20,Kansas,Graham County
+205,20065,20,Kansas,Graham County
+206,20069,20,Kansas,Gray County
+207,20073,20,Kansas,Greenwood County
+208,20073,20,Kansas,Greenwood County
+209,20073,20,Kansas,Greenwood County
+210,20075,20,Kansas,Hamilton County
+211,20077,20,Kansas,Harper County
+212,20077,20,Kansas,Harper County
+213,20077,20,Kansas,Harper County
+214,20077,20,Kansas,Harper County
+215,20081,20,Kansas,Haskell County
+216,20087,20,Kansas,Jefferson County
+217,20089,20,Kansas,Jewell County
+218,20093,20,Kansas,Kearny County
+219,20093,20,Kansas,Kearny County
+220,20093,20,Kansas,Kearny County
+221,20095,20,Kansas,Kingman County
+222,20097,20,Kansas,Kiowa County
+223,20099,20,Kansas,Labette County
+224,20101,20,Kansas,Lane County
+225,20101,20,Kansas,Lane County
+226,20101,20,Kansas,Lane County
+227,20101,20,Kansas,Lane County
+228,20105,20,Kansas,Lincoln County
+229,20109,20,Kansas,Logan County
+230,20109,20,Kansas,Logan County
+231,20109,20,Kansas,Logan County
+232,20109,20,Kansas,Logan County
+233,20111,20,Kansas,Lyon County
+234,20113,20,Kansas,McPherson County
+235,20115,20,Kansas,Marion County
+236,20117,20,Kansas,Marshall County
+237,20117,20,Kansas,Marshall County
+238,20125,20,Kansas,Montgomery County
+239,20125,20,Kansas,Montgomery County
+240,20125,20,Kansas,Montgomery County
+241,20129,20,Kansas,Morton County
+242,20129,20,Kansas,Morton County
+243,20129,20,Kansas,Morton County
+244,20129,20,Kansas,Morton County
+245,20133,20,Kansas,Neosho County
+246,20137,20,Kansas,Norton County
+247,20139,20,Kansas,Osage County
+248,20139,20,Kansas,Osage County
+249,20143,20,Kansas,Ottawa County
+250,20145,20,Kansas,Pawnee County
+251,20145,20,Kansas,Pawnee County
+252,20145,20,Kansas,Pawnee County
+253,20145,20,Kansas,Pawnee County
+254,20149,20,Kansas,Pottawatomie County
+255,20157,20,Kansas,Republic County
+256,20159,20,Kansas,Rice County
+257,20161,20,Kansas,Riley County
+258,20161,20,Kansas,Riley County
+259,20161,20,Kansas,Riley County
+260,20167,20,Kansas,Russell County
+261,20173,20,Kansas,Sedgwick County
+262,20175,20,Kansas,Seward County
+263,20177,20,Kansas,Shawnee County
+264,20185,20,Kansas,Stafford County
+265,20185,20,Kansas,Stafford County
+266,20185,20,Kansas,Stafford County
+267,20185,20,Kansas,Stafford County
+268,20189,20,Kansas,Stevens County
+269,20191,20,Kansas,Sumner County
+270,20191,20,Kansas,Sumner County
+271,20191,20,Kansas,Sumner County
+272,20191,20,Kansas,Sumner County
+273,20193,20,Kansas,Thomas County
+274,20193,20,Kansas,Thomas County
+275,20193,20,Kansas,Thomas County
+276,20193,20,Kansas,Thomas County
+277,20193,20,Kansas,Thomas County
+278,20193,20,Kansas,Thomas County
+279,20193,20,Kansas,Thomas County
+280,20195,20,Kansas,Trego County
+281,20197,20,Kansas,Wabaunsee County
+282,20197,20,Kansas,Wabaunsee County
+283,20197,20,Kansas,Wabaunsee County
+284,20197,20,Kansas,Wabaunsee County
+285,20199,20,Kansas,Wallace County
+286,20201,20,Kansas,Washington County
+287,20207,20,Kansas,Woodson County
+288,35003,35,New Mexico,Catron County
+289,35003,35,New Mexico,Catron County
+290,35003,35,New Mexico,Catron County
+291,35003,35,New Mexico,Catron County
+292,35003,35,New Mexico,Catron County
+293,35003,35,New Mexico,Catron County
+294,35003,35,New Mexico,Catron County
+295,35003,35,New Mexico,Catron County
+296,35005,35,New Mexico,Chaves County
+297,35005,35,New Mexico,Chaves County
+298,35005,35,New Mexico,Chaves County
+299,35005,35,New Mexico,Chaves County
+300,35005,35,New Mexico,Chaves County
+301,35005,35,New Mexico,Chaves County
+302,35006,35,New Mexico,Cibola County
+303,35006,35,New Mexico,Cibola County
+304,35006,35,New Mexico,Cibola County
+305,35006,35,New Mexico,Cibola County
+306,35007,35,New Mexico,Colfax County
+307,35007,35,New Mexico,Colfax County
+308,35007,35,New Mexico,Colfax County
+309,35007,35,New Mexico,Colfax County
+310,35007,35,New Mexico,Colfax County
+311,35007,35,New Mexico,Colfax County
+312,35007,35,New Mexico,Colfax County
+313,35009,35,New Mexico,Curry County
+314,35011,35,New Mexico,De Baca County
+315,35011,35,New Mexico,De Baca County
+316,35011,35,New Mexico,De Baca County
+317,35013,35,New Mexico,Dowa Ana County
+318,35013,35,New Mexico,Dowa Ana County
+319,35015,35,New Mexico,Eddy County
+320,35015,35,New Mexico,Eddy County
+321,35017,35,New Mexico,Grant County
+322,35017,35,New Mexico,Grant County
+323,35017,35,New Mexico,Grant County
+324,35017,35,New Mexico,Grant County
+325,35017,35,New Mexico,Grant County
+326,35019,35,New Mexico,Guadalupe County
+327,35021,35,New Mexico,Harding County
+328,35021,35,New Mexico,Harding County
+329,35023,35,New Mexico,Hidalgo County
+330,35023,35,New Mexico,Hidalgo County
+331,35023,35,New Mexico,Hidalgo County
+332,35023,35,New Mexico,Hidalgo County
+333,35025,35,New Mexico,Lea County
+334,35025,35,New Mexico,Lea County
+335,35025,35,New Mexico,Lea County
+336,35025,35,New Mexico,Lea County
+337,35025,35,New Mexico,Lea County
+338,35025,35,New Mexico,Lea County
+339,35025,35,New Mexico,Lea County
+340,35025,35,New Mexico,Lea County
+341,35027,35,New Mexico,Lincoln County
+342,35029,35,New Mexico,Luna County
+343,35029,35,New Mexico,Luna County
+344,35029,35,New Mexico,Luna County
+345,35029,35,New Mexico,Luna County
+346,35031,35,New Mexico,McKinley County
+347,35031,35,New Mexico,McKinley County
+348,35031,35,New Mexico,McKinley County
+349,35031,35,New Mexico,McKinley County
+350,35031,35,New Mexico,McKinley County
+351,35031,35,New Mexico,McKinley County
+352,35031,35,New Mexico,McKinley County
+353,35033,35,New Mexico,Mora County
+354,35035,35,New Mexico,Otero County
+355,35035,35,New Mexico,Otero County
+356,35037,35,New Mexico,Quay County
+357,35037,35,New Mexico,Quay County
+358,35037,35,New Mexico,Quay County
+359,35037,35,New Mexico,Quay County
+360,35037,35,New Mexico,Quay County
+361,35037,35,New Mexico,Quay County
+362,35037,35,New Mexico,Quay County
+363,35039,35,New Mexico,Rio Arriba County
+364,35039,35,New Mexico,Rio Arriba County
+365,35039,35,New Mexico,Rio Arriba County
+366,35039,35,New Mexico,Rio Arriba County
+367,35039,35,New Mexico,Rio Arriba County
+368,35039,35,New Mexico,Rio Arriba County
+369,35039,35,New Mexico,Rio Arriba County
+370,35041,35,New Mexico,Roosevelt County
+371,35041,35,New Mexico,Roosevelt County
+372,35041,35,New Mexico,Roosevelt County
+373,35041,35,New Mexico,Roosevelt County
+374,35041,35,New Mexico,Roosevelt County
+375,35041,35,New Mexico,Roosevelt County
+376,35041,35,New Mexico,Roosevelt County
+377,35041,35,New Mexico,Roosevelt County
+378,35041,35,New Mexico,Roosevelt County
+379,35041,35,New Mexico,Roosevelt County
+380,35041,35,New Mexico,Roosevelt County
+381,35041,35,New Mexico,Roosevelt County
+382,35043,35,New Mexico,Sandoval County
+383,35043,35,New Mexico,Sandoval County
+384,35043,35,New Mexico,Sandoval County
+385,35043,35,New Mexico,Sandoval County
+386,35043,35,New Mexico,Sandoval County
+387,35043,35,New Mexico,Sandoval County
+388,35043,35,New Mexico,Sandoval County
+389,35043,35,New Mexico,Sandoval County
+390,35045,35,New Mexico,San Juan County
+391,35045,35,New Mexico,San Juan County
+392,35045,35,New Mexico,San Juan County
+393,35047,35,New Mexico,San Miguel County
+394,35051,35,New Mexico,Sierra County
+395,35051,35,New Mexico,Sierra County
+396,35053,35,New Mexico,Socorro County
+397,35053,35,New Mexico,Socorro County
+398,35053,35,New Mexico,Socorro County
+399,35053,35,New Mexico,Socorro County
+400,35053,35,New Mexico,Socorro County
+401,35053,35,New Mexico,Socorro County
+402,35053,35,New Mexico,Socorro County
+403,35053,35,New Mexico,Socorro County
+404,35053,35,New Mexico,Socorro County
+405,35053,35,New Mexico,Socorro County
+406,35053,35,New Mexico,Socorro County
+407,35053,35,New Mexico,Socorro County
+408,35053,35,New Mexico,Socorro County
+409,35055,35,New Mexico,Taos County
+410,35055,35,New Mexico,Taos County
+411,35055,35,New Mexico,Taos County
+412,35055,35,New Mexico,Taos County
+413,35057,35,New Mexico,Torrance County
+414,35057,35,New Mexico,Torrance County
+415,35057,35,New Mexico,Torrance County
+416,35059,35,New Mexico,Union County
+417,35059,35,New Mexico,Union County
+418,35059,35,New Mexico,Union County
+419,35059,35,New Mexico,Union County
+420,56001,56,Wyoming,Albany County
+421,56001,56,Wyoming,Albany County
+422,56005,56,Wyoming,Campbell County
+423,56005,56,Wyoming,Campbell County
+424,56005,56,Wyoming,Campbell County
+425,56005,56,Wyoming,Campbell County
+426,56005,56,Wyoming,Campbell County
+427,56005,56,Wyoming,Campbell County
+428,56007,56,Wyoming,Carbon County
+429,56007,56,Wyoming,Carbon County
+430,56007,56,Wyoming,Carbon County
+431,56007,56,Wyoming,Carbon County
+432,56007,56,Wyoming,Carbon County
+433,56007,56,Wyoming,Carbon County
+434,56007,56,Wyoming,Carbon County
+435,56007,56,Wyoming,Carbon County
+436,56007,56,Wyoming,Carbon County
+437,56007,56,Wyoming,Carbon County
+438,56007,56,Wyoming,Carbon County
+439,56007,56,Wyoming,Carbon County
+440,56007,56,Wyoming,Carbon County
+441,56007,56,Wyoming,Carbon County
+442,56007,56,Wyoming,Carbon County
+443,56007,56,Wyoming,Carbon County
+444,56009,56,Wyoming,Converse County
+445,56009,56,Wyoming,Converse County
+446,56009,56,Wyoming,Converse County
+447,56009,56,Wyoming,Converse County
+448,56009,56,Wyoming,Converse County
+449,56009,56,Wyoming,Converse County
+450,56009,56,Wyoming,Converse County
+451,56009,56,Wyoming,Converse County
+452,56009,56,Wyoming,Converse County
+453,56009,56,Wyoming,Converse County
+454,56011,56,Wyoming,Crook County
+455,56011,56,Wyoming,Crook County
+456,56011,56,Wyoming,Crook County
+457,56011,56,Wyoming,Crook County
+458,56011,56,Wyoming,Crook County
+459,56011,56,Wyoming,Crook County
+460,56013,56,Wyoming,Fremont County
+461,56013,56,Wyoming,Fremont County
+462,56013,56,Wyoming,Fremont County
+463,56013,56,Wyoming,Fremont County
+464,56013,56,Wyoming,Fremont County
+465,56013,56,Wyoming,Fremont County
+466,56013,56,Wyoming,Fremont County
+467,56013,56,Wyoming,Fremont County
+468,56013,56,Wyoming,Fremont County
+469,56013,56,Wyoming,Fremont County
+470,56013,56,Wyoming,Fremont County
+471,56013,56,Wyoming,Fremont County
+472,56013,56,Wyoming,Fremont County
+473,56015,56,Wyoming,Goshen County
+474,56015,56,Wyoming,Goshen County
+475,56015,56,Wyoming,Goshen County
+476,56015,56,Wyoming,Goshen County
+477,56017,56,Wyoming,Hot Springs County
+478,56019,56,Wyoming,Johnson County
+479,56019,56,Wyoming,Johnson County
+480,56019,56,Wyoming,Johnson County
+481,56019,56,Wyoming,Johnson County
+482,56019,56,Wyoming,Johnson County
+483,56019,56,Wyoming,Johnson County
+484,56021,56,Wyoming,Laramie County
+485,56021,56,Wyoming,Laramie County
+486,56021,56,Wyoming,Laramie County
+487,56021,56,Wyoming,Laramie County
+488,56023,56,Wyoming,Lincoln County
+489,56023,56,Wyoming,Lincoln County
+490,56023,56,Wyoming,Lincoln County
+491,56025,56,Wyoming,Natrona County
+492,56025,56,Wyoming,Natrona County
+493,56025,56,Wyoming,Natrona County
+494,56025,56,Wyoming,Natrona County
+495,56025,56,Wyoming,Natrona County
+496,56027,56,Wyoming,Niobrara County
+497,56027,56,Wyoming,Niobrara County
+498,56027,56,Wyoming,Niobrara County
+499,56027,56,Wyoming,Niobrara County
+500,56027,56,Wyoming,Niobrara County
+501,56029,56,Wyoming,Park County
+502,56029,56,Wyoming,Park County
+503,56029,56,Wyoming,Park County
+504,56029,56,Wyoming,Park County
+505,56029,56,Wyoming,Park County
+506,56029,56,Wyoming,Park County
+507,56029,56,Wyoming,Park County
+508,56029,56,Wyoming,Park County
+509,56029,56,Wyoming,Park County
+510,56029,56,Wyoming,Park County
+511,56029,56,Wyoming,Park County
+512,56031,56,Wyoming,Platte County
+513,56031,56,Wyoming,Platte County
+514,56033,56,Wyoming,Sheridan County
+515,56033,56,Wyoming,Sheridan County
+516,56033,56,Wyoming,Sheridan County
+517,56033,56,Wyoming,Sheridan County
+518,56033,56,Wyoming,Sheridan County
+519,56033,56,Wyoming,Sheridan County
+520,56035,56,Wyoming,Sublette County
+521,56035,56,Wyoming,Sublette County
+522,56035,56,Wyoming,Sublette County
+523,56035,56,Wyoming,Sublette County
+524,56035,56,Wyoming,Sublette County
+525,56035,56,Wyoming,Sublette County
+526,56035,56,Wyoming,Sublette County
+527,56035,56,Wyoming,Sublette County
+528,56035,56,Wyoming,Sublette County
+529,56035,56,Wyoming,Sublette County
+530,56037,56,Wyoming,Sweetwater County
+531,56037,56,Wyoming,Sweetwater County
+532,56037,56,Wyoming,Sweetwater County
+533,56037,56,Wyoming,Sweetwater County
+534,56037,56,Wyoming,Sweetwater County
+535,56037,56,Wyoming,Sweetwater County
+536,56037,56,Wyoming,Sweetwater County
+537,56037,56,Wyoming,Sweetwater County
+538,56037,56,Wyoming,Sweetwater County
+539,56037,56,Wyoming,Sweetwater County
+540,56039,56,Wyoming,Teton County
+541,56039,56,Wyoming,Teton County
+542,56039,56,Wyoming,Teton County
+543,56039,56,Wyoming,Teton County
+544,56039,56,Wyoming,Teton County
+545,56039,56,Wyoming,Teton County
+546,56039,56,Wyoming,Teton County
+547,56039,56,Wyoming,Teton County
+548,56039,56,Wyoming,Teton County
+549,56039,56,Wyoming,Teton County
+550,56039,56,Wyoming,Teton County
+551,56039,56,Wyoming,Teton County
+552,56039,56,Wyoming,Teton County
+553,56039,56,Wyoming,Teton County
+554,56041,56,Wyoming,Uinta County
+555,56041,56,Wyoming,Uinta County
+556,56043,56,Wyoming,Washakie County
+557,56043,56,Wyoming,Washakie County
+558,56043,56,Wyoming,Washakie County
+559,56043,56,Wyoming,Washakie County
+560,56043,56,Wyoming,Washakie County
+561,56043,56,Wyoming,Washakie County
+562,56043,56,Wyoming,Washakie County
+563,56043,56,Wyoming,Washakie County
+564,56045,56,Wyoming,Weston County
+565,56045,56,Wyoming,Weston County
+566,56045,56,Wyoming,Weston County
+567,56045,56,Wyoming,Weston County
+568,56045,56,Wyoming,Weston County
+569,56045,56,Wyoming,Weston County
+570,56045,56,Wyoming,Weston County

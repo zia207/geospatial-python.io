@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571241366384.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "574351671",
+    "id" : "1631D9BA",
+    "lastKnownWriteTime" : 1581472764,
+    "last_content_update" : 1581472764762,
+    "path" : "E:/GitHub/geospatial-python-github.io/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "cursorPosition" : "20,37",
+        "scrollLine" : "9"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

@@ -1,0 +1,56 @@
+---
+title: ''
+---
+
+```{r}
+
+```
+
+\pagebreak 
+
+
+```{r echo=FALSE, out.width='100%', fig.align="center"}
+knitr::include_graphics('E:\\GitHub\\geospatial-python-github.io\\Image\\cover_page.png')
+```
+
+
+
+<div style="margin-bottom:50px;">
+</div>
+
+
+
+<div style="margin-bottom:50px;">
+</div>
+This tutorial  consists of three modules: 
+
+
+
+#### 1. [Spatial Data Processing](about.html)
+
+#### 2. [Spatial/Geo-Statistics](about-b.html)
+
+#### 3. [Remote Sensing Data Processing and Analysis](about-c.html)
+
+
+
+
+<div style="margin-bottom:50px;">
+</div>
+
+## **Zia Ahmed, PhD**
+
+Research Associate Professor (Data & Visualization)
+
+[RENEW (Research and Education in eNergy, Environment and Water) Institute](http://www.buffalo.edu/renew.html)
+
+[University at Buffalo](http://www.buffalo.edu/) 
+
+<div style="margin-bottom:50px;">
+</div>
+
+```{r echo=FALSE, out.width='40%', fig.align="left"}
+knitr::include_graphics('C:\\Users\\zahmed2\\Documents\\My_WebPage\\geospatial-python-github.io\\Image\\RENEW.png')
+```
+
+

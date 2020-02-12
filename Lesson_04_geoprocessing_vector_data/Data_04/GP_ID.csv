@@ -1,0 +1,663 @@
+SiteID,StateID,LandCover1,LandCover2
+219,CO,Shrubland,Shrubland
+235,CO,Planted/Cultivated,Pasture/Hay
+475,CO,Shrubland,Shrubland
+491,CO,Herbaceous Upland,Grasslands/Herbaceous
+507,CO,Shrubland,Shrubland
+683,CO,Herbaceous Upland,Grasslands/Herbaceous
+747,CO,Herbaceous Upland,Grasslands/Herbaceous
+923,CO,Forested Upland,Mixed Forest
+939,CO,Forested Upland,Deciduous Forest
+1115,CO,Herbaceous Upland,Grasslands/Herbaceous
+1195,CO,Herbaceous Upland,Grasslands/Herbaceous
+1243,CO,Shrubland,Shrubland
+1259,CO,Shrubland,Shrubland
+1499,CO,Shrubland,Shrubland
+1515,CO,Planted/Cultivated,Pasture/Hay
+1531,CO,Planted/Cultivated,Pasture/Hay
+1579,CO,Forested Upland,Evergreen Forest
+1627,CO,Forested Upland,Evergreen Forest
+1691,CO,Shrubland,Shrubland
+1707,CO,Planted/Cultivated,Row Crops
+1947,CO,Forested Upland,Deciduous Forest
+1963,CO,Herbaceous Upland,Grasslands/Herbaceous
+2075,CO,Herbaceous Upland,Grasslands/Herbaceous
+2107,CO,Herbaceous Upland,Grasslands/Herbaceous
+2155,CO,Herbaceous Upland,Grasslands/Herbaceous
+2219,CO,Planted/Cultivated,Small Grains
+2267,CO,Forested Upland,Evergreen Forest
+2283,CO,Herbaceous Upland,Grasslands/Herbaceous
+2347,CO,Forested Upland,Evergreen Forest
+2539,CO,Herbaceous Upland,Grasslands/Herbaceous
+2555,CO,Forested Upland,Deciduous Forest
+2603,CO,Forested Upland,Deciduous Forest
+2715,CO,Forested Upland,Evergreen Forest
+2731,CO,Herbaceous Upland,Grasslands/Herbaceous
+2971,CO,Shrubland,Shrubland
+2987,CO,Herbaceous Upland,Grasslands/Herbaceous
+3099,CO,Herbaceous Upland,Grasslands/Herbaceous
+3131,CO,Herbaceous Upland,Grasslands/Herbaceous
+3291,CO,Forested Upland,Evergreen Forest
+3307,CO,Shrubland,Shrubland
+3323,CO,Shrubland,Shrubland
+3371,CO,Forested Upland,Mixed Forest
+3499,CO,Shrubland,Shrubland
+3563,CO,Planted/Cultivated,Pasture/Hay
+3579,CO,Shrubland,Shrubland
+3675,CO,Herbaceous Upland,Grasslands/Herbaceous
+3739,CO,Shrubland,Shrubland
+3755,CO,Herbaceous Upland,Grasslands/Herbaceous
+3995,CO,Forested Upland,Mixed Forest
+4011,CO,Herbaceous Upland,Grasslands/Herbaceous
+4155,CO,Herbaceous Upland,Grasslands/Herbaceous
+4187,CO,Herbaceous Upland,Grasslands/Herbaceous
+4315,CO,Herbaceous Upland,Grasslands/Herbaceous
+4331,CO,Forested Upland,Mixed Forest
+4571,CO,Forested Upland,Mixed Forest
+4587,CO,Herbaceous Upland,Grasslands/Herbaceous
+4699,CO,Forested Upland,Evergreen Forest
+4763,CO,Shrubland,Shrubland
+4779,CO,Herbaceous Upland,Grasslands/Herbaceous
+5019,CO,Shrubland,Shrubland
+5035,CO,Shrubland,Shrubland
+5179,CO,Herbaceous Upland,Grasslands/Herbaceous
+5211,CO,Herbaceous Upland,Grasslands/Herbaceous
+5227,CO,Planted/Cultivated,Small Grains
+5291,CO,Herbaceous Upland,Grasslands/Herbaceous
+5339,CO,Forested Upland,Mixed Forest
+5355,CO,Forested Upland,Evergreen Forest
+5371,CO,Shrubland,Shrubland
+5611,CO,Herbaceous Upland,Grasslands/Herbaceous
+5627,CO,Shrubland,Shrubland
+5675,CO,Forested Upland,Evergreen Forest
+5723,CO,Forested Upland,Evergreen Forest
+5787,CO,Forested Upland,Evergreen Forest
+5867,CO,Herbaceous Upland,Grasslands/Herbaceous
+6043,CO,Shrubland,Shrubland
+6059,CO,Shrubland,Shrubland
+6171,CO,Herbaceous Upland,Grasslands/Herbaceous
+6251,CO,Shrubland,Shrubland
+6315,CO,Planted/Cultivated,Pasture/Hay
+6363,CO,Forested Upland,Mixed Forest
+6379,CO,Herbaceous Upland,Grasslands/Herbaceous
+6443,CO,Shrubland,Shrubland
+6571,CO,Herbaceous Upland,Grasslands/Herbaceous
+6635,CO,Herbaceous Upland,Grasslands/Herbaceous
+6651,CO,Shrubland,Shrubland
+6699,CO,Forested Upland,Mixed Forest
+6747,CO,Herbaceous Upland,Grasslands/Herbaceous
+6811,CO,Shrubland,Shrubland
+6827,CO,Shrubland,Shrubland
+6939,CO,Shrubland,Shrubland
+7083,CO,Herbaceous Upland,Grasslands/Herbaceous
+7227,CO,Shrubland,Shrubland
+7387,CO,Shrubland,Shrubland
+7403,CO,Shrubland,Shrubland
+7419,CO,Shrubland,Shrubland
+7467,CO,Herbaceous Upland,Grasslands/Herbaceous
+7595,CO,Herbaceous Upland,Grasslands/Herbaceous
+7659,CO,Shrubland,Shrubland
+7835,CO,Shrubland,Shrubland
+7851,CO,Forested Upland,Evergreen Forest
+8091,CO,Shrubland,Shrubland
+8107,CO,Planted/Cultivated,Small Grains
+8251,CO,Shrubland,Shrubland
+8363,CO,Herbaceous Upland,Grasslands/Herbaceous
+8411,CO,Shrubland,Shrubland
+8427,CO,Developed,Low Intensity Residential
+8667,CO,Shrubland,Shrubland
+8683,CO,Herbaceous Upland,Grasslands/Herbaceous
+8795,CO,Forested Upland,Evergreen Forest
+8859,CO,Shrubland,Shrubland
+8875,CO,Herbaceous Upland,Grasslands/Herbaceous
+8939,CO,Shrubland,Shrubland
+9115,CO,Shrubland,Shrubland
+9131,CO,Forested Upland,Mixed Forest
+9243,CO,Planted/Cultivated,Small Grains
+9435,CO,Shrubland,Shrubland
+9451,CO,Forested Upland,Evergreen Forest
+9515,CO,Developed,Low Intensity Residential
+9707,CO,Herbaceous Upland,Grasslands/Herbaceous
+9723,CO,Shrubland,Shrubland
+9771,CO,Forested Upland,Mixed Forest
+9819,CO,Forested Upland,Evergreen Forest
+9883,CO,Shrubland,Shrubland
+9899,CO,Planted/Cultivated,Pasture/Hay
+10139,CO,Shrubland,Shrubland
+10155,CO,Shrubland,Shrubland
+10267,CO,Planted/Cultivated,Small Grains
+10347,CO,Herbaceous Upland,Grasslands/Herbaceous
+10411,CO,Herbaceous Upland,Grasslands/Herbaceous
+10459,CO,Shrubland,Shrubland
+10475,CO,Herbaceous Upland,Grasslands/Herbaceous
+10491,CO,Shrubland,Shrubland
+10539,CO,Forested Upland,Evergreen Forest
+10731,CO,Shrubland,Shrubland
+10747,CO,Shrubland,Shrubland
+10843,CO,Shrubland,Shrubland
+10907,CO,Forested Upland,Deciduous Forest
+10923,CO,Forested Upland,Mixed Forest
+11035,CO,Herbaceous Upland,Grasslands/Herbaceous
+11163,CO,Shrubland,Shrubland
+11179,CO,Herbaceous Upland,Grasslands/Herbaceous
+11419,CO,Shrubland,Shrubland
+11483,CO,Forested Upland,Evergreen Forest
+11499,CO,Herbaceous Upland,Grasslands/Herbaceous
+11691,CO,Herbaceous Upland,Grasslands/Herbaceous
+11755,CO,Herbaceous Upland,Grasslands/Herbaceous
+11931,CO,Shrubland,Shrubland
+11947,CO,Herbaceous Upland,Grasslands/Herbaceous
+12075,CO,Shrubland,Shrubland
+12187,CO,Shrubland,Shrubland
+12203,CO,Shrubland,Shrubland
+12347,CO,Shrubland,Shrubland
+12379,CO,Shrubland,Shrubland
+12395,CO,Herbaceous Upland,Grasslands/Herbaceous
+12459,CO,Herbaceous Upland,Grasslands/Herbaceous
+12507,CO,Shrubland,Shrubland
+12523,CO,Shrubland,Shrubland
+12763,CO,Forested Upland,Deciduous Forest
+12779,CO,Herbaceous Upland,Grasslands/Herbaceous
+12795,CO,Shrubland,Shrubland
+12843,CO,Forested Upland,Mixed Forest
+12891,CO,Shrubland,Shrubland
+12955,CO,Forested Upland,Mixed Forest
+12971,CO,Herbaceous Upland,Grasslands/Herbaceous
+13211,CO,Herbaceous Upland,Grasslands/Herbaceous
+104,KS,Herbaceous Upland,Grasslands/Herbaceous
+107,KS,Planted/Cultivated,Small Grains
+171,KS,Herbaceous Upland,Grasslands/Herbaceous
+216,KS,Herbaceous Upland,Grasslands/Herbaceous
+296,KS,Planted/Cultivated,Small Grains
+427,KS,Planted/Cultivated,Pasture/Hay
+472,KS,Developed,Low Intensity Residential
+664,KS,Planted/Cultivated,Pasture/Hay
+728,KS,Herbaceous Upland,Grasslands/Herbaceous
+920,KS,Herbaceous Upland,Grasslands/Herbaceous
+984,KS,Planted/Cultivated,Pasture/Hay
+1128,KS,Herbaceous Upland,Grasslands/Herbaceous
+1131,KS,Planted/Cultivated,Row Crops
+1432,KS,Planted/Cultivated,Pasture/Hay
+1451,KS,Planted/Cultivated,Small Grains
+1496,KS,Planted/Cultivated,Pasture/Hay
+1688,KS,Herbaceous Upland,Grasslands/Herbaceous
+1752,KS,Planted/Cultivated,Pasture/Hay
+1899,KS,Planted/Cultivated,Pasture/Hay
+2008,KS,Herbaceous Upland,Grasslands/Herbaceous
+2088,KS,Planted/Cultivated,Pasture/Hay
+2152,KS,Planted/Cultivated,Pasture/Hay
+2200,KS,Planted/Cultivated,Row Crops
+2264,KS,Planted/Cultivated,Pasture/Hay
+2456,KS,Herbaceous Upland,Grasslands/Herbaceous
+2475,KS,Planted/Cultivated,Pasture/Hay
+2520,KS,Herbaceous Upland,Grasslands/Herbaceous
+2667,KS,Planted/Cultivated,Small Grains
+2712,KS,Herbaceous Upland,Grasslands/Herbaceous
+2776,KS,Shrubland,Shrubland
+2968,KS,Planted/Cultivated,Small Grains
+3032,KS,Herbaceous Upland,Grasslands/Herbaceous
+3112,KS,Forested Upland,Deciduous Forest
+3176,KS,Planted/Cultivated,Pasture/Hay
+3243,KS,Planted/Cultivated,Row Crops
+3288,KS,Herbaceous Upland,Grasslands/Herbaceous
+3480,KS,Herbaceous Upland,Grasslands/Herbaceous
+3544,KS,Planted/Cultivated,Pasture/Hay
+3736,KS,Herbaceous Upland,Grasslands/Herbaceous
+3800,KS,Planted/Cultivated,Small Grains
+3947,KS,Planted/Cultivated,Row Crops
+4267,KS,Planted/Cultivated,Small Grains
+4312,KS,Planted/Cultivated,Fallow
+4392,KS,Herbaceous Upland,Grasslands/Herbaceous
+4504,KS,Herbaceous Upland,Grasslands/Herbaceous
+4523,KS,Herbaceous Upland,Grasslands/Herbaceous
+4568,KS,Developed,Commercial/Industrial/Transportation
+4760,KS,Planted/Cultivated,Pasture/Hay
+4824,KS,Herbaceous Upland,Grasslands/Herbaceous
+4971,KS,Planted/Cultivated,Small Grains
+5016,KS,Herbaceous Upland,Grasslands/Herbaceous
+5080,KS,Planted/Cultivated,Small Grains
+5224,KS,Planted/Cultivated,Pasture/Hay
+5272,KS,Herbaceous Upland,Grasslands/Herbaceous
+5336,KS,Planted/Cultivated,Small Grains
+5528,KS,Planted/Cultivated,Pasture/Hay
+5547,KS,Planted/Cultivated,Row Crops
+5592,KS,Herbaceous Upland,Grasslands/Herbaceous
+5739,KS,Planted/Cultivated,Row Crops
+5784,KS,Herbaceous Upland,Grasslands/Herbaceous
+5803,KS,Planted/Cultivated,Small Grains
+5848,KS,Planted/Cultivated,Small Grains
+5995,KS,Planted/Cultivated,Pasture/Hay
+6104,KS,Herbaceous Upland,Grasslands/Herbaceous
+6184,KS,Herbaceous Upland,Grasslands/Herbaceous
+6248,KS,Herbaceous Upland,Grasslands/Herbaceous
+6296,KS,Herbaceous Upland,Grasslands/Herbaceous
+6360,KS,Herbaceous Upland,Grasslands/Herbaceous
+6552,KS,Herbaceous Upland,Grasslands/Herbaceous
+6763,KS,Planted/Cultivated,Small Grains
+6808,KS,Planted/Cultivated,Small Grains
+6872,KS,Planted/Cultivated,Row Crops
+7064,KS,Planted/Cultivated,Small Grains
+7128,KS,Planted/Cultivated,Small Grains
+7339,KS,Planted/Cultivated,Small Grains
+7384,KS,Developed,Low Intensity Residential
+7576,KS,Planted/Cultivated,Row Crops
+7787,KS,Shrubland,Shrubland
+7832,KS,Herbaceous Upland,Grasslands/Herbaceous
+7896,KS,Planted/Cultivated,Small Grains
+7976,KS,Developed,Low Intensity Residential
+8043,KS,Planted/Cultivated,Small Grains
+8088,KS,Herbaceous Upland,Grasslands/Herbaceous
+8296,KS,Planted/Cultivated,Pasture/Hay
+8488,KS,Planted/Cultivated,Small Grains
+8552,KS,Herbaceous Upland,Grasslands/Herbaceous
+8600,KS,Planted/Cultivated,Urban/Recreational Grasses
+8619,KS,Herbaceous Upland,Grasslands/Herbaceous
+8664,KS,Planted/Cultivated,Small Grains
+8856,KS,Planted/Cultivated,Pasture/Hay
+8920,KS,Planted/Cultivated,Row Crops
+9067,KS,Shrubland,Shrubland
+9176,KS,Developed,Low Intensity Residential
+9320,KS,Herbaceous Upland,Grasslands/Herbaceous
+9323,KS,Planted/Cultivated,Small Grains
+9368,KS,Developed,Low Intensity Residential
+9387,KS,Planted/Cultivated,Pasture/Hay
+9432,KS,Planted/Cultivated,Small Grains
+9643,KS,Planted/Cultivated,Row Crops
+9688,KS,Herbaceous Upland,Grasslands/Herbaceous
+9835,KS,Planted/Cultivated,Small Grains
+9880,KS,Planted/Cultivated,Pasture/Hay
+9944,KS,Planted/Cultivated,Row Crops
+10200,KS,Planted/Cultivated,Pasture/Hay
+10280,KS,Planted/Cultivated,Row Crops
+10344,KS,Herbaceous Upland,Grasslands/Herbaceous
+10392,KS,Planted/Cultivated,Row Crops
+10456,KS,Planted/Cultivated,Pasture/Hay
+10648,KS,Planted/Cultivated,Row Crops
+10667,KS,Herbaceous Upland,Grasslands/Herbaceous
+10712,KS,Planted/Cultivated,Pasture/Hay
+10859,KS,Planted/Cultivated,Small Grains
+10904,KS,Planted/Cultivated,Pasture/Hay
+10968,KS,Herbaceous Upland,Grasslands/Herbaceous
+11115,KS,Planted/Cultivated,Row Crops
+11160,KS,Planted/Cultivated,Small Grains
+11304,KS,Planted/Cultivated,Fallow
+11435,KS,Planted/Cultivated,Row Crops
+11480,KS,Planted/Cultivated,Pasture/Hay
+11672,KS,Developed,Low Intensity Residential
+11928,KS,Planted/Cultivated,Small Grains
+11992,KS,Herbaceous Upland,Grasslands/Herbaceous
+12072,KS,Herbaceous Upland,Grasslands/Herbaceous
+12139,KS,Planted/Cultivated,Row Crops
+12504,KS,Planted/Cultivated,Row Crops
+12584,KS,Planted/Cultivated,Pasture/Hay
+12696,KS,Herbaceous Upland,Grasslands/Herbaceous
+12715,KS,Herbaceous Upland,Grasslands/Herbaceous
+12760,KS,Herbaceous Upland,Grasslands/Herbaceous
+12952,KS,Planted/Cultivated,Pasture/Hay
+13016,KS,Herbaceous Upland,Grasslands/Herbaceous
+13163,KS,Planted/Cultivated,Pasture/Hay
+59,NM,Forested Upland,Evergreen Forest
+63,NM,Shrubland,Shrubland
+148,NM,Shrubland,Shrubland
+299,NM,Shrubland,Shrubland
+319,NM,Shrubland,Shrubland
+404,NM,Herbaceous Upland,Grasslands/Herbaceous
+495,NM,Shrubland,Shrubland
+555,NM,Herbaceous Upland,Grasslands/Herbaceous
+596,NM,Shrubland,Shrubland
+660,NM,Shrubland,Shrubland
+811,NM,Shrubland,Shrubland
+916,NM,Shrubland,Shrubland
+1003,NM,Shrubland,Shrubland
+1007,NM,Forested Upland,Evergreen Forest
+1083,NM,Shrubland,Shrubland
+1172,NM,Forested Upland,Evergreen Forest
+1323,NM,Shrubland,Shrubland
+1343,NM,Shrubland,Shrubland
+1428,NM,Shrubland,Shrubland
+1519,NM,Shrubland,Shrubland
+1620,NM,Shrubland,Shrubland
+1684,NM,Shrubland,Shrubland
+1771,NM,Shrubland,Shrubland
+1835,NM,Forested Upland,Evergreen Forest
+1876,NM,Shrubland,Shrubland
+1940,NM,Herbaceous Upland,Grasslands/Herbaceous
+2027,NM,Forested Upland,Mixed Forest
+2031,NM,Shrubland,Shrubland
+2111,NM,Shrubland,Shrubland
+2132,NM,Shrubland,Shrubland
+2196,NM,Forested Upland,Evergreen Forest
+2260,NM,Shrubland,Shrubland
+2287,NM,Shrubland,Shrubland
+2367,NM,Shrubland,Shrubland
+2452,NM,Herbaceous Upland,Grasslands/Herbaceous
+2543,NM,Shrubland,Shrubland
+2708,NM,Shrubland,Shrubland
+2795,NM,Shrubland,Shrubland
+2799,NM,Shrubland,Shrubland
+2859,NM,Shrubland,Shrubland
+2900,NM,Shrubland,Shrubland
+3051,NM,Herbaceous Upland,Grasslands/Herbaceous
+3055,NM,Shrubland,Shrubland
+3115,NM,Shrubland,Shrubland
+3135,NM,Shrubland,Shrubland
+3220,NM,Shrubland,Shrubland
+3311,NM,Shrubland,Shrubland
+3412,NM,Shrubland,Shrubland
+3476,NM,Shrubland,Shrubland
+3604,NM,Shrubland,Shrubland
+3627,NM,Shrubland,Shrubland
+3732,NM,Herbaceous Upland,Grasslands/Herbaceous
+3803,NM,Shrubland,Shrubland
+3819,NM,Herbaceous Upland,Grasslands/Herbaceous
+3823,NM,Shrubland,Shrubland
+3883,NM,Shrubland,Shrubland
+3924,NM,Shrubland,Shrubland
+4075,NM,Shrubland,Shrubland
+4079,NM,Shrubland,Shrubland
+4159,NM,Herbaceous Upland,Grasslands/Herbaceous
+4244,NM,Forested Upland,Evergreen Forest
+4308,NM,Shrubland,Shrubland
+4335,NM,Shrubland,Shrubland
+4395,NM,Shrubland,Shrubland
+4415,NM,Shrubland,Shrubland
+4500,NM,Shrubland,Shrubland
+4591,NM,Shrubland,Shrubland
+4651,NM,Forested Upland,Evergreen Forest
+4692,NM,Shrubland,Shrubland
+4756,NM,Shrubland,Shrubland
+4843,NM,Shrubland,Shrubland
+4907,NM,Shrubland,Shrubland
+5012,NM,Shrubland,Shrubland
+5099,NM,Herbaceous Upland,Grasslands/Herbaceous
+5103,NM,Herbaceous Upland,Grasslands/Herbaceous
+5183,NM,Herbaceous Upland,Grasslands/Herbaceous
+5268,NM,Herbaceous Upland,Grasslands/Herbaceous
+5359,NM,Shrubland,Shrubland
+5419,NM,Forested Upland,Evergreen Forest
+5439,NM,Shrubland,Shrubland
+5524,NM,Shrubland,Shrubland
+5615,NM,Shrubland,Shrubland
+5716,NM,Shrubland,Shrubland
+5780,NM,Shrubland,Shrubland
+5931,NM,Shrubland,Shrubland
+5972,NM,Shrubland,Shrubland
+6036,NM,Shrubland,Shrubland
+6123,NM,Shrubland,Shrubland
+6127,NM,Shrubland,Shrubland
+6187,NM,Shrubland,Shrubland
+6203,NM,Shrubland,Shrubland
+6207,NM,Forested Upland,Evergreen Forest
+6228,NM,Herbaceous Upland,Grasslands/Herbaceous
+6292,NM,Shrubland,Shrubland
+6356,NM,Shrubland,Shrubland
+6383,NM,Herbaceous Upland,Grasslands/Herbaceous
+6463,NM,Shrubland,Shrubland
+6484,NM,Shrubland,Shrubland
+6548,NM,Shrubland,Shrubland
+6804,NM,Forested Upland,Evergreen Forest
+6891,NM,Shrubland,Shrubland
+6895,NM,Shrubland,Shrubland
+6955,NM,Forested Upland,Mixed Forest
+6996,NM,Shrubland,Shrubland
+7147,NM,Forested Upland,Evergreen Forest
+7151,NM,Shrubland,Shrubland
+7211,NM,Shrubland,Shrubland
+7231,NM,Shrubland,Shrubland
+7316,NM,Shrubland,Shrubland
+7407,NM,Shrubland,Shrubland
+7508,NM,Shrubland,Shrubland
+7572,NM,Shrubland,Shrubland
+7700,NM,Shrubland,Shrubland
+7723,NM,Shrubland,Shrubland
+7828,NM,Herbaceous Upland,Grasslands/Herbaceous
+7915,NM,Shrubland,Shrubland
+7919,NM,Shrubland,Shrubland
+7979,NM,Forested Upland,Mixed Forest
+8020,NM,Shrubland,Shrubland
+8171,NM,Shrubland,Shrubland
+8175,NM,Shrubland,Shrubland
+8235,NM,Shrubland,Shrubland
+8255,NM,Herbaceous Upland,Grasslands/Herbaceous
+8276,NM,Shrubland,Shrubland
+8340,NM,Shrubland,Shrubland
+8404,NM,Shrubland,Shrubland
+8431,NM,Shrubland,Shrubland
+8491,NM,Herbaceous Upland,Grasslands/Herbaceous
+8511,NM,Shrubland,Shrubland
+8596,NM,Herbaceous Upland,Grasslands/Herbaceous
+8687,NM,Shrubland,Shrubland
+8747,NM,Herbaceous Upland,Grasslands/Herbaceous
+8788,NM,Shrubland,Shrubland
+8852,NM,Shrubland,Shrubland
+8923,NM,Shrubland,Shrubland
+9003,NM,Forested Upland,Mixed Forest
+9108,NM,Forested Upland,Mixed Forest
+9195,NM,Shrubland,Shrubland
+9199,NM,Shrubland,Shrubland
+9275,NM,Herbaceous Upland,Grasslands/Herbaceous
+9279,NM,Shrubland,Shrubland
+9300,NM,Shrubland,Shrubland
+9364,NM,Forested Upland,Evergreen Forest
+9455,NM,Shrubland,Shrubland
+9535,NM,Herbaceous Upland,Grasslands/Herbaceous
+9620,NM,Shrubland,Shrubland
+9711,NM,Shrubland,Shrubland
+9876,NM,Shrubland,Shrubland
+9963,NM,Forested Upland,Evergreen Forest
+9967,NM,Herbaceous Upland,Grasslands/Herbaceous
+10027,NM,Forested Upland,Evergreen Forest
+10132,NM,Shrubland,Shrubland
+10219,NM,Forested Upland,Mixed Forest
+10223,NM,Herbaceous Upland,Grasslands/Herbaceous
+10283,NM,Shrubland,Shrubland
+10299,NM,Herbaceous Upland,Grasslands/Herbaceous
+10303,NM,Herbaceous Upland,Grasslands/Herbaceous
+10324,NM,Shrubland,Shrubland
+10388,NM,Herbaceous Upland,Grasslands/Herbaceous
+10479,NM,Shrubland,Shrubland
+10580,NM,Shrubland,Shrubland
+10644,NM,Shrubland,Shrubland
+10795,NM,Shrubland,Shrubland
+10900,NM,Shrubland,Shrubland
+10987,NM,Herbaceous Upland,Grasslands/Herbaceous
+10991,NM,Herbaceous Upland,Grasslands/Herbaceous
+11051,NM,Shrubland,Shrubland
+11092,NM,Shrubland,Shrubland
+11243,NM,Herbaceous Upland,Grasslands/Herbaceous
+11247,NM,Shrubland,Shrubland
+11307,NM,Shrubland,Shrubland
+11327,NM,Herbaceous Upland,Grasslands/Herbaceous
+11412,NM,Herbaceous Upland,Grasslands/Herbaceous
+11503,NM,Shrubland,Shrubland
+11563,NM,Forested Upland,Mixed Forest
+11604,NM,Shrubland,Shrubland
+11668,NM,Shrubland,Shrubland
+11796,NM,Shrubland,Shrubland
+11819,NM,Shrubland,Shrubland
+11924,NM,Herbaceous Upland,Grasslands/Herbaceous
+11995,NM,Herbaceous Upland,Grasslands/Herbaceous
+12011,NM,Herbaceous Upland,Grasslands/Herbaceous
+12015,NM,Shrubland,Shrubland
+12116,NM,Shrubland,Shrubland
+12180,NM,Forested Upland,Evergreen Forest
+12267,NM,Herbaceous Upland,Grasslands/Herbaceous
+12271,NM,Herbaceous Upland,Grasslands/Herbaceous
+12351,NM,Herbaceous Upland,Grasslands/Herbaceous
+12372,NM,Shrubland,Shrubland
+12436,NM,Herbaceous Upland,Grasslands/Herbaceous
+12500,NM,Shrubland,Shrubland
+12527,NM,Shrubland,Shrubland
+12587,NM,Shrubland,Shrubland
+12607,NM,Shrubland,Shrubland
+12692,NM,Shrubland,Shrubland
+12783,NM,Shrubland,Shrubland
+12884,NM,Shrubland,Shrubland
+12948,NM,Shrubland,Shrubland
+13019,NM,Shrubland,Shrubland
+13035,NM,Shrubland,Shrubland
+13099,NM,Herbaceous Upland,Grasslands/Herbaceous
+13140,NM,Shrubland,Shrubland
+13204,NM,Shrubland,Shrubland
+91,WY,Planted/Cultivated,Small Grains
+123,WY,Herbaceous Upland,Grasslands/Herbaceous
+187,WY,Shrubland,Shrubland
+251,WY,Shrubland,Shrubland
+347,WY,Herbaceous Upland,Grasslands/Herbaceous
+379,WY,Shrubland,Shrubland
+443,WY,Forested Upland,Mixed Forest
+603,WY,Shrubland,Shrubland
+699,WY,Shrubland,Shrubland
+814,WY,Shrubland,Shrubland
+891,WY,Shrubland,Shrubland
+955,WY,Shrubland,Shrubland
+971,WY,Herbaceous Upland,Grasslands/Herbaceous
+1051,WY,Herbaceous Upland,Grasslands/Herbaceous
+1211,WY,Herbaceous Upland,Grasslands/Herbaceous
+1275,WY,Shrubland,Shrubland
+1371,WY,Herbaceous Upland,Grasslands/Herbaceous
+1403,WY,Forested Upland,Mixed Forest
+1467,WY,Herbaceous Upland,Grasslands/Herbaceous
+1483,WY,Shrubland,Shrubland
+1723,WY,Shrubland,Shrubland
+1726,WY,Herbaceous Upland,Grasslands/Herbaceous
+1739,WY,Herbaceous Upland,Grasslands/Herbaceous
+1774,WY,Forested Upland,Evergreen Forest
+1915,WY,Herbaceous Upland,Grasslands/Herbaceous
+1979,WY,Shrubland,Shrubland
+1995,WY,Shrubland,Shrubland
+2235,WY,Shrubland,Shrubland
+2299,WY,Shrubland,Shrubland
+2395,WY,Shrubland,Shrubland
+2427,WY,Shrubland,Shrubland
+2491,WY,Shrubland,Shrubland
+2507,WY,Herbaceous Upland,Grasslands/Herbaceous
+2606,WY,Shrubland,Shrubland
+2651,WY,Shrubland,Shrubland
+2747,WY,Shrubland,Shrubland
+2763,WY,Herbaceous Upland,Grasslands/Herbaceous
+2875,WY,Shrubland,Shrubland
+2939,WY,Shrubland,Shrubland
+3003,WY,Shrubland,Shrubland
+3163,WY,Herbaceous Upland,Grasslands/Herbaceous
+3259,WY,Shrubland,Shrubland
+3374,WY,Herbaceous Upland,Grasslands/Herbaceous
+3419,WY,Herbaceous Upland,Grasslands/Herbaceous
+3515,WY,Herbaceous Upland,Grasslands/Herbaceous
+3531,WY,Herbaceous Upland,Grasslands/Herbaceous
+3771,WY,Herbaceous Upland,Grasslands/Herbaceous
+3787,WY,Shrubland,Shrubland
+3899,WY,Shrubland,Shrubland
+3963,WY,Forested Upland,Mixed Forest
+4027,WY,Shrubland,Shrubland
+4043,WY,Shrubland,Shrubland
+4219,WY,Shrubland,Shrubland
+4283,WY,Shrubland,Shrubland
+4347,WY,Forested Upland,Mixed Forest
+4443,WY,Herbaceous Upland,Grasslands/Herbaceous
+4475,WY,Shrubland,Shrubland
+4539,WY,Herbaceous Upland,Grasslands/Herbaceous
+4555,WY,Herbaceous Upland,Grasslands/Herbaceous
+4795,WY,Herbaceous Upland,Grasslands/Herbaceous
+4987,WY,Herbaceous Upland,Grasslands/Herbaceous
+5051,WY,Shrubland,Shrubland
+5067,WY,Herbaceous Upland,Grasslands/Herbaceous
+5307,WY,Shrubland,Shrubland
+5467,WY,Shrubland,Shrubland
+5499,WY,Herbaceous Upland,Grasslands/Herbaceous
+5563,WY,Shrubland,Shrubland
+5579,WY,Herbaceous Upland,Grasslands/Herbaceous
+5819,WY,Herbaceous Upland,Grasslands/Herbaceous
+5835,WY,Herbaceous Upland,Grasslands/Herbaceous
+5870,WY,Forested Upland,Mixed Forest
+5947,WY,Shrubland,Shrubland
+6011,WY,Shrubland,Shrubland
+6075,WY,Shrubland,Shrubland
+6091,WY,Herbaceous Upland,Grasslands/Herbaceous
+6331,WY,Herbaceous Upland,Grasslands/Herbaceous
+6491,WY,Forested Upland,Mixed Forest
+6523,WY,Shrubland,Shrubland
+6587,WY,Shrubland,Shrubland
+6603,WY,Herbaceous Upland,Grasslands/Herbaceous
+6779,WY,Forested Upland,Evergreen Forest
+6843,WY,Shrubland,Shrubland
+6859,WY,Herbaceous Upland,Grasslands/Herbaceous
+6971,WY,Forested Upland,Mixed Forest
+7035,WY,Herbaceous Upland,Grasslands/Herbaceous
+7099,WY,Shrubland,Shrubland
+7259,WY,Herbaceous Upland,Grasslands/Herbaceous
+7355,WY,Herbaceous Upland,Grasslands/Herbaceous
+7470,WY,Shrubland,Shrubland
+7515,WY,Herbaceous Upland,Grasslands/Herbaceous
+7611,WY,Shrubland,Shrubland
+7627,WY,Herbaceous Upland,Grasslands/Herbaceous
+7662,WY,Forested Upland,Evergreen Forest
+7675,WY,Shrubland,Shrubland
+7726,WY,Herbaceous Upland,Grasslands/Herbaceous
+7803,WY,Herbaceous Upland,Grasslands/Herbaceous
+7867,WY,Shrubland,Shrubland
+7883,WY,Herbaceous Upland,Grasslands/Herbaceous
+7995,WY,Shrubland,Shrubland
+8059,WY,Herbaceous Upland,Grasslands/Herbaceous
+8123,WY,Shrubland,Shrubland
+8139,WY,Shrubland,Shrubland
+8219,WY,Shrubland,Shrubland
+8283,WY,Planted/Cultivated,Fallow
+8379,WY,Shrubland,Shrubland
+8443,WY,Herbaceous Upland,Grasslands/Herbaceous
+8539,WY,Herbaceous Upland,Grasslands/Herbaceous
+8571,WY,Shrubland,Shrubland
+8635,WY,Shrubland,Shrubland
+8651,WY,Herbaceous Upland,Grasslands/Herbaceous
+8699,WY,Shrubland,Shrubland
+8891,WY,Forested Upland,Evergreen Forest
+8907,WY,Herbaceous Upland,Grasslands/Herbaceous
+9083,WY,Forested Upland,Deciduous Forest
+9147,WY,Shrubland,Shrubland
+9163,WY,Herbaceous Upland,Grasslands/Herbaceous
+9403,WY,Shrubland,Shrubland
+9467,WY,Shrubland,Shrubland
+9563,WY,Herbaceous Upland,Grasslands/Herbaceous
+9595,WY,Shrubland,Shrubland
+9659,WY,Shrubland,Shrubland
+9675,WY,Shrubland,Shrubland
+9915,WY,Shrubland,Shrubland
+9918,WY,Shrubland,Shrubland
+9931,WY,Herbaceous Upland,Grasslands/Herbaceous
+9966,WY,Forested Upland,Evergreen Forest
+10043,WY,Shrubland,Shrubland
+10107,WY,Shrubland,Shrubland
+10171,WY,Shrubland,Shrubland
+10187,WY,Herbaceous Upland,Grasslands/Herbaceous
+10427,WY,Shrubland,Shrubland
+10587,WY,Shrubland,Shrubland
+10619,WY,Shrubland,Shrubland
+10683,WY,Forested Upland,Mixed Forest
+10699,WY,Shrubland,Shrubland
+10811,WY,Shrubland,Shrubland
+10875,WY,Forested Upland,Evergreen Forest
+10939,WY,Shrubland,Shrubland
+10955,WY,Herbaceous Upland,Grasslands/Herbaceous
+11067,WY,Shrubland,Shrubland
+11131,WY,Herbaceous Upland,Grasslands/Herbaceous
+11195,WY,Shrubland,Shrubland
+11355,WY,Herbaceous Upland,Grasslands/Herbaceous
+11451,WY,Shrubland,Shrubland
+11611,WY,Shrubland,Shrubland
+11707,WY,Shrubland,Shrubland
+11771,WY,Shrubland,Shrubland
+11899,WY,Forested Upland,Evergreen Forest
+11963,WY,Shrubland,Shrubland
+11979,WY,Herbaceous Upland,Grasslands/Herbaceous
+12091,WY,Shrubland,Shrubland
+12155,WY,Shrubland,Shrubland
+12219,WY,Shrubland,Shrubland
+12315,WY,Herbaceous Upland,Grasslands/Herbaceous
+12475,WY,Shrubland,Shrubland
+12539,WY,Shrubland,Shrubland
+12635,WY,Shrubland,Shrubland
+12667,WY,Forested Upland,Mixed Forest
+12731,WY,Herbaceous Upland,Grasslands/Herbaceous
+12747,WY,Herbaceous Upland,Grasslands/Herbaceous
+12987,WY,Shrubland,Shrubland
+12990,WY,Shrubland,Shrubland
