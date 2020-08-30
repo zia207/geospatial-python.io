@@ -1,20 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1581471343082.000,
+    "created" : 1598757973335.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "4D78A98A",
+    "hash" : "1352313698",
+    "id" : "546810DB",
     "lastKnownWriteTime" : 1581471382,
-    "last_content_update" : 1581471382418,
+    "last_content_update" : 1581471382,
     "path" : "E:/GitHub/geospatial-python-github.io/geospatial-python.io/about-c.Rmd",
     "project_path" : "about-c.Rmd",
     "properties" : {
-        "cursorPosition" : "4,12",
-        "scrollLine" : "0"
     },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
     "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",

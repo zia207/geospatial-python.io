@@ -1,0 +1,43 @@
+name: Geospatial Data Science in Python
+output_dir: '.'
+navbar:
+  title: Geospatial Data Science in Python
+  type: inverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Spatial Data Processing with Python
+    href: spatial-data-processing.html
+    menu:
+    - text: Content
+      href: about.html
+    - text: Getting Started with Python
+      href: lesson_01_getting_started_with_python.html
+    - text: Read and Write Spatial Data in Python
+      href: lesson_02_read_write_spatial_data_python.html
+    - text: Map Projection and Coordinate Reference Systems
+      href: lesson_03_pojection_coordinate_reference_system.html
+    - text: Geoprocessing Vector Data
+      href: lesson_04_geoprocessing-vector-data.html
+    - text: Working with Spatial Polygon Data
+      href: lesson_05_working-with-polygon-data.html
+    - text: Working with Raster Data
+      href: lesson_06_working-with-raster-data.html
+    - text: Working with Spatial Point Data
+      href: lesson_07_working with point data.html
+right:
+  - text: Email
+    icon: fa-envelope fa-lg
+    href: mailto:zia207@gmail.com
+  - icon: fa-github fa-lg
+    href: http://github.com/zia207
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/zia-ahmed-a7653578
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+

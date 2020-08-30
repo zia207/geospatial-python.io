@@ -1,0 +1,4 @@
+"0","knitr::include_graphics('C:\\Users\\zahmed2\\Documents\\My_WebPage\\geospatial-python-github.io\\Image\\RENEW.png')"
+"2","Error in knitr::include_graphics(""C:\\Users\\zahmed2\\Documents\\My_WebPage\\geospatial-python-github.io\\Image\\RENEW.png"") : 
+  Cannot find the file(s): ""C:\Users\zahmed2\Documents\My_WebPage\geospatial-python-github.io\Image\RENEW.png""
+"
